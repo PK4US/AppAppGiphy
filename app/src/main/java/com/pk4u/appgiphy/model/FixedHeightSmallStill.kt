@@ -1,4 +1,4 @@
-package com.example.giphyapiandroom.model
+package com.pk4u.appgiphy
 
 data class FixedHeightSmallStill(
     val url: String,

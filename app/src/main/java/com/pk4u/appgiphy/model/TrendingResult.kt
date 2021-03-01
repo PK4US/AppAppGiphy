@@ -1,5 +1,3 @@
-package com.pk4u.appgiphy.model
-
-import com.example.giphyapiandroom.model.Data
+package com.pk4u.appgiphy
 
 data class TrendingResult(val data: List<Data>)

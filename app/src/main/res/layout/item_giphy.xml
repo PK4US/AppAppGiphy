@@ -7,7 +7,7 @@
 
         <variable
             name="data"
-            type="com.example.giphyapiandroom.model.Data" />
+            type="com.pk4u.appgiphy.Data" />
 
     </data>
 

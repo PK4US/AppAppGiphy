@@ -4,7 +4,7 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.databinding.DataBindingUtil
 import androidx.recyclerview.widget.RecyclerView
-import com.example.giphyapiandroom.model.Data
+import com.pk4u.appgiphy.Data
 import com.pk4u.appgiphy.R
 import com.pk4u.appgiphy.databinding.ItemGiphyBinding
 
