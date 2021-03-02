@@ -1,9 +1,8 @@
 package com.pk4u.appgiphy.database
 
-import com.pk4u.appgiphy.Data
-import com.pk4u.appgiphy.FixedHeightSmallStill
-import com.pk4u.appgiphy.Images
-
+import com.pk4u.appgiphy.model.Data
+import com.pk4u.appgiphy.model.FixedHeightSmallStill
+import com.pk4u.appgiphy.model.Images
 
 fun DataEntity.toData() = Data(
     Images(FixedHeightSmallStill(this.images, "320", "420")),

@@ -7,7 +7,7 @@
 
         <variable
             name="data"
-            type="com.pk4u.appgiphy.Data" />
+            type="com.pk4u.appgiphy.model.Data" />
 
     </data>
 

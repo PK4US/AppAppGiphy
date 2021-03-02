@@ -1,6 +1,6 @@
 package com.pk4u.appgiphy.data.network
 
-import com.pk4u.appgiphy.TrendingResult
+import com.pk4u.appgiphy.model.TrendingResult
 import io.reactivex.Flowable
 import retrofit2.http.GET
 import retrofit2.http.Query

@@ -3,7 +3,6 @@ package com.pk4u.appgiphy
 import android.app.Application
 import com.pk4u.appgiphy.database.TrendingDatabase
 
-
 class GiphyApplication : Application() {
 
     companion object {

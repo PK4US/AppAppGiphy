@@ -1,4 +1,4 @@
-package com.pk4u.appgiphy
+package com.pk4u.appgiphy.model
 
 import com.squareup.moshi.Json
 

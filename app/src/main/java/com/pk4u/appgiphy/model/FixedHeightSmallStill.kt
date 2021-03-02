@@ -1,4 +1,4 @@
-package com.pk4u.appgiphy
+package com.pk4u.appgiphy.model
 
 data class FixedHeightSmallStill(
     val url: String,

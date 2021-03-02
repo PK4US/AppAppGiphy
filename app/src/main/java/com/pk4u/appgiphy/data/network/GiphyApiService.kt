@@ -1,6 +1,5 @@
 package com.pk4u.appgiphy.data.network
 
-
 import com.pk4u.appgiphy.internal.BASE_URL
 import okhttp3.*
 import okhttp3.logging.HttpLoggingInterceptor
